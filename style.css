@@ -1,0 +1,45 @@
+body {
+	background-color: violet;
+}
+h2{
+	background-color: pink;
+}
+tr {
+	background-color: pink;
+}
+h2 {
+	font-family: "Copperplate", Fantasy
+}
+p {
+	font-family: "Papyrus", Fantasy
+}
+ul {
+	font-family: "Monaco", Monospace
+}
+p {
+	margin-top: 25px;
+	margin-bottom: 50px;
+	margin-right: 75px;
+	margin-left:100px;
+	background-color: pink;
+}
+p {
+	border: 5px solid black;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+ul {
+	margin-top: 25px;
+	margin-bottom: 50px;
+	margin-right: 75px;
+	margin-left:100px;
+	background-color: pink;
+}
+ul {
+	border: 5px solid black;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
