@@ -1,45 +1,28 @@
-body {
-	background-color: violet;
-}
-h2{
-	background-color: pink;
-}
-tr {
-	background-color: pink;
-}
-h2 {
-	font-family: "Copperplate", Fantasy
-}
-p {
-	font-family: "Papyrus", Fantasy
-}
-ul {
-	font-family: "Monaco", Monospace
-}
-p {
-	margin-top: 25px;
-	margin-bottom: 50px;
-	margin-right: 75px;
-	margin-left:100px;
-	background-color: pink;
-}
-p {
-	border: 5px solid black;
-	padding-top: 50px;
-	padding-right: 30px;
-	padding-bottom: 50px;
-	padding-left: 80px;
-}
-ul {
-	margin-top: 25px;
-	margin-bottom: 50px;
-	margin-right: 75px;
-	margin-left:100px;
-	background-color: pink;
-}
-ul {
-	border: 5px solid black;
-	padding-top: 50px;
-	padding-right: 30px;
-	padding-bottom: 50px;
-	padding-left: 80px;
+h1 {text-align: center;
+	border: 6px solid;
+	color : violet;}
+p {color : #ffb3d1;
+	text-align: center;}
+tr {color : #990033;
+	text-align: center;
+	border: 2px solid}
+ul {color : #ffb3d1;
+	text-align: center;}
+ul	{border-left: : 10px solid pink;
+	background-color : black;}
+tr {background-color: pink;}
+p {background-color: black}
+p {margin-top: 100px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 75px;}
+ul {margin-top: 100px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 75px;}
+h1 {font-family: Copperplate, Papyrus, fantasy;}
+p {font-family: "Trebuchet MS", Helvetica, sans-serif;}
+ul {font-family: "Trebuchet MS", Helvetica, sans-serif;}
+tr {font-family: "Trebuchet MS", Helvetica, sans-serif;}
+table {width: 50%}
+th {height: 20px;}
